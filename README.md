@@ -1,5 +1,7 @@
 # Classification-with-pre-trained-transformers
 
+## TabPFN vs CatBoost 
+-------------------
 https://arxiv.org/pdf/2311.10609.pdf
 
 ![image](https://github.com/sinanazeri/Classification-with-pre-trained-transformers/assets/121966646/ca00ca24-5347-4b7f-b052-9ab023c3727f)
@@ -19,3 +21,6 @@ Overall, the summary underscores TabPFN's potential in handling small datasets a
 
 
 ![image](https://github.com/sinanazeri/Classification-with-pre-trained-transformers/assets/121966646/660d207c-2d38-43e0-aa34-48901433aa57)
+
+-----------
+
